@@ -1,6 +1,159 @@
 {
   "runs": [
     {
+      "date": "2026-10-19",
+      "base": "HEAD",
+      "countries": [
+        {
+          "country": "NG",
+          "as_of_before": "2026-10-12",
+          "as_of_after": "2026-10-19",
+          "count_before": 1261,
+          "count_after": 1262,
+          "added_count": 1,
+          "removed_count": 0,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [
+            {
+              "id": "ng-1262",
+              "name": "Dejlait Co Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": null
+            }
+          ],
+          "removed": [],
+          "status_changes": [],
+          "contact_changes": []
+        },
+        {
+          "country": "UG",
+          "as_of_before": "2026-10-12",
+          "as_of_after": "2026-10-19",
+          "count_before": 181,
+          "count_after": 181,
+          "added_count": 2,
+          "removed_count": 2,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [
+            {
+              "id": "ug-0037",
+              "name": "ENVIRON PLUS UGANDA LIMITED",
+              "status": "active",
+              "license_no": "E24090017",
+              "valid_to": "2026-12-01"
+            },
+            {
+              "id": "ug-0075",
+              "name": "SUCCESS JOBS CONSULTANTS LTD",
+              "status": "active",
+              "license_no": "E24110019",
+              "valid_to": "2026-11-17"
+            }
+          ],
+          "removed": [
+            {
+              "id": "ug-0123",
+              "name": "GULF LINK INTERNATIONAL",
+              "status": "active",
+              "license_no": "E24090020",
+              "valid_to": "2026-10-16"
+            },
+            {
+              "id": "ug-0132",
+              "name": "BM FOREX WORKERS LTD",
+              "status": "active",
+              "license_no": "E24100005",
+              "valid_to": "2026-10-13"
+            }
+          ],
+          "status_changes": [],
+          "contact_changes": []
+        },
+        {
+          "country": "GH",
+          "as_of_before": "2026-10-12",
+          "as_of_after": "2026-10-19",
+          "count_before": 315,
+          "count_after": 306,
+          "added_count": 0,
+          "removed_count": 9,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [],
+          "removed": [
+            {
+              "id": "gh-0011",
+              "name": "Al-YAAKUT WAL MARJAN LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0086",
+              "name": "Guzel Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0087",
+              "name": "Alexis Route Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0103",
+              "name": "EBEMGLOBAL GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0120",
+              "name": "AVENSIS CHAUFFEUR SOLUTION",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0151",
+              "name": "GH Offshore Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0154",
+              "name": "SAFETY MARINE INTERNATIONAL CREWING LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0173",
+              "name": "CAPSTONE E-GLOBAL CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            },
+            {
+              "id": "gh-0200",
+              "name": "Jab's Travel and Business Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-18"
+            }
+          ],
+          "status_changes": [],
+          "contact_changes": []
+        }
+      ]
+    },
+    {
       "date": "2026-10-12",
       "base": "HEAD",
       "countries": [
