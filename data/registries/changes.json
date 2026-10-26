@@ -1,6 +1,2165 @@
 {
   "runs": [
     {
+      "date": "2026-10-26",
+      "base": "HEAD",
+      "countries": [
+        {
+          "country": "UG",
+          "as_of_before": "2026-10-19",
+          "as_of_after": "2026-10-26",
+          "count_before": 181,
+          "count_after": 184,
+          "added_count": 3,
+          "removed_count": 0,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [
+            {
+              "id": "ug-0026",
+              "name": "BABCOOK AND BELLWAY INVESTMENT LTD",
+              "status": "active",
+              "license_no": "E24110012",
+              "valid_to": "2026-11-17"
+            },
+            {
+              "id": "ug-0134",
+              "name": "BM FOREX WORKERS LTD",
+              "status": "active",
+              "license_no": "E24100005",
+              "valid_to": "2026-12-31"
+            },
+            {
+              "id": "ug-0167",
+              "name": "RANGERS SECURITY LTD",
+              "status": "active",
+              "license_no": "E24110022",
+              "valid_to": "2026-11-17"
+            }
+          ],
+          "removed": [],
+          "status_changes": [],
+          "contact_changes": []
+        },
+        {
+          "country": "GH",
+          "as_of_before": "2026-10-19",
+          "as_of_after": "2026-10-26",
+          "count_before": 306,
+          "count_after": 0,
+          "added_count": 0,
+          "removed_count": 305,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [],
+          "removed": [
+            {
+              "id": "gh-0001",
+              "name": "Accra Metro Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0002",
+              "name": "Tema Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0003",
+              "name": "Accra Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0004",
+              "name": "MON-TRAN Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0005",
+              "name": "Elidel Prestige Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-29"
+            },
+            {
+              "id": "gh-0006",
+              "name": "SRI Emas Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0007",
+              "name": "Schulte Maritime Services Ghana Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0008",
+              "name": "Insight HR Solutions",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0009",
+              "name": "SOS Labour(GH) Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0010",
+              "name": "P-Impact Recruitment And Tourism Agency",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-12"
+            },
+            {
+              "id": "gh-0011",
+              "name": "International Migration Policy Recruitment And Advisory Centre",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-11"
+            },
+            {
+              "id": "gh-0012",
+              "name": "Cape Coast Regional Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0013",
+              "name": "Dunkwa-On-Offin",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0014",
+              "name": "Cape Coast Metro Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0015",
+              "name": "Assin Fosu Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0016",
+              "name": "Winneba",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0017",
+              "name": "Saltpond Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0018",
+              "name": "Komenda",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0019",
+              "name": "Volta Regional Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0020",
+              "name": "Ho Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0021",
+              "name": "Denu Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0022",
+              "name": "Sogakope Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0023",
+              "name": "Kpando District Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0024",
+              "name": "Juapong District Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0025",
+              "name": "Hohoe Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0026",
+              "name": "Keta Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0027",
+              "name": "Obuasi Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0028",
+              "name": "Ashanti Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0029",
+              "name": "Kumasi Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0030",
+              "name": "Bekwai Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0031",
+              "name": "Tepa Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0032",
+              "name": "Konongo Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0033",
+              "name": "Mampong Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0034",
+              "name": "Suhum District Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0035",
+              "name": "Koforidua Regional Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0036",
+              "name": "Kibi Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0037",
+              "name": "Somanya Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0038",
+              "name": "Tafo Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0039",
+              "name": "Kintampo Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0040",
+              "name": "Akim Oda Public Employment Center",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0041",
+              "name": "Kade District Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0042",
+              "name": "CS Franddos Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-30"
+            },
+            {
+              "id": "gh-0043",
+              "name": "Danag Consult Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0044",
+              "name": "Kenyasi Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0045",
+              "name": "The Capital Group Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0046",
+              "name": "Emaric Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-30"
+            },
+            {
+              "id": "gh-0047",
+              "name": "Jobs In Ghana",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0048",
+              "name": "First Manpower Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0049",
+              "name": "Xanthi & Associates Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0050",
+              "name": "Zuk-Madil Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0051",
+              "name": "Migration Solution Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0052",
+              "name": "Samana HR Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0053",
+              "name": "O.K.P Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-12-30"
+            },
+            {
+              "id": "gh-0054",
+              "name": "Nayt Consult Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0055",
+              "name": "Anomansa Recruitment Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0056",
+              "name": "Matinise Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0057",
+              "name": "TOM K GLOBAL RECRUITMENT AGENCY LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-30"
+            },
+            {
+              "id": "gh-0058",
+              "name": "Mbarko Ventures Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0059",
+              "name": "Jabs Travel and Business ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-19"
+            },
+            {
+              "id": "gh-0060",
+              "name": "SIMOSCO GH COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-12"
+            },
+            {
+              "id": "gh-0061",
+              "name": "Damata Rahma",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0062",
+              "name": "Christian Labour Association of Ghana",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0063",
+              "name": "FOSS SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0064",
+              "name": "GHP Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0065",
+              "name": "JSC Strategic Solutions Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0066",
+              "name": "Al-Drees Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-28"
+            },
+            {
+              "id": "gh-0067",
+              "name": "Rockcee Recruitment Consult",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0068",
+              "name": "Atebubu Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0069",
+              "name": "Stanrit Recruitment Agency Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0070",
+              "name": "Yendi Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0071",
+              "name": "Tarkwa-Nsuaem Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0072",
+              "name": "Twifo Hemang Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0073",
+              "name": "Birim Central Municipal Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0074",
+              "name": "Ga West Municipal Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0075",
+              "name": "West Gonja Municipal Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0076",
+              "name": "Mamprusi West Municipal Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0077",
+              "name": "Krachi East Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0078",
+              "name": "Bolgatanga Municipal Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0079",
+              "name": "GABBYAVE Recruitment Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-30"
+            },
+            {
+              "id": "gh-0080",
+              "name": "AKWAABA NIPPON LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0081",
+              "name": "EXPERT ESTEE GLOBAL LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-29"
+            },
+            {
+              "id": "gh-0082",
+              "name": "BRIGHT HIRING HR CONSULTANCY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-22"
+            },
+            {
+              "id": "gh-0083",
+              "name": "GARTRAND COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0084",
+              "name": "SB RECRUITMENT LIMITED COMPANY",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0085",
+              "name": "Habadam Global Investment Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-12"
+            },
+            {
+              "id": "gh-0086",
+              "name": "SK Dosah Group Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-28"
+            },
+            {
+              "id": "gh-0141",
+              "name": "Global CS (Ghana) Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-24"
+            },
+            {
+              "id": "gh-0088",
+              "name": "Mining Tools Ghana PTY Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-29"
+            },
+            {
+              "id": "gh-0089",
+              "name": "AL-Barakaat Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-28"
+            },
+            {
+              "id": "gh-0090",
+              "name": "Leob Gold Dream Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0091",
+              "name": "Gate-Afric Travel and Agency Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0092",
+              "name": "Gro Oil Field Alliance Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0093",
+              "name": "RECTRAIN SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-31"
+            },
+            {
+              "id": "gh-0094",
+              "name": "Embett consult limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0095",
+              "name": "Executive 1 security company limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-30"
+            },
+            {
+              "id": "gh-0096",
+              "name": "Aristotle Consult Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0097",
+              "name": "Empower workforce",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-12-08"
+            },
+            {
+              "id": "gh-0098",
+              "name": "APL GHANA LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0099",
+              "name": "Amaja Oilfield Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-21"
+            },
+            {
+              "id": "gh-0100",
+              "name": "ADVANCE CONSULTING LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0101",
+              "name": "BOTICREW SERVICE LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0102",
+              "name": "AD-Precision Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-29"
+            },
+            {
+              "id": "gh-0103",
+              "name": "BLESSEDOF COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0104",
+              "name": "BEST PLAN LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0105",
+              "name": "BEST LABOUR COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-20"
+            },
+            {
+              "id": "gh-0106",
+              "name": "Adventure Offshore Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0107",
+              "name": "AFR APPLY TECHNOLOGIES LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0108",
+              "name": "FREBERTH LIMITED COMPANY",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0109",
+              "name": "KOFAMA BH LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0110",
+              "name": "KWARTZ CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-29"
+            },
+            {
+              "id": "gh-0111",
+              "name": "FOUR STAR MARINE AND CREWING SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-20"
+            },
+            {
+              "id": "gh-0112",
+              "name": "FIRST PRUDENCE CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0113",
+              "name": "L'AINE SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-05-28"
+            },
+            {
+              "id": "gh-0114",
+              "name": "Alcrew Marine Services Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0115",
+              "name": "AJ & A Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0116",
+              "name": "Aldelia Ghana Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0117",
+              "name": "Advance Health Care Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0118",
+              "name": "KABS AND CONSTRUCTION COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0119",
+              "name": "African Bagg Recruitment",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-24"
+            },
+            {
+              "id": "gh-0120",
+              "name": "HENGSTER PARTNERS LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-29"
+            },
+            {
+              "id": "gh-0121",
+              "name": "HAKOK LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-04-29"
+            },
+            {
+              "id": "gh-0122",
+              "name": "KHS ENERGY SERVICE LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0123",
+              "name": "RT Maritime Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0124",
+              "name": "Rakes Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-05"
+            },
+            {
+              "id": "gh-0125",
+              "name": "QUICKJOBS COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-21"
+            },
+            {
+              "id": "gh-0126",
+              "name": "WEST AFRICA OFFSHORE SERVICE LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0127",
+              "name": "WORLDRECRUIT SERVICE LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0128",
+              "name": "RESOURCE INTERMEDIARIES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-24"
+            },
+            {
+              "id": "gh-0129",
+              "name": "HR CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0130",
+              "name": "RESOURCES AND MANPOWER GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0131",
+              "name": "RONWKO CREWING & MARINE SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0132",
+              "name": "HR Solutions Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0133",
+              "name": "Geokodams Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-31"
+            },
+            {
+              "id": "gh-0134",
+              "name": "Gaspark Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0135",
+              "name": "ROYAL WORK-FORCE SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0136",
+              "name": "ROFIO ENTERPRISE LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0137",
+              "name": "SIRIUS MARITIME CREWING SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0138",
+              "name": "SHINEPACK GLOBAL LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0139",
+              "name": "Prince Multi Purpose Investments Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0140",
+              "name": "Gari Sika Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0142",
+              "name": "DELIN HR CONSULT",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0143",
+              "name": "DEAL WELL MARINE AND ALL FIELD SERVICES LTD COMPANY",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0144",
+              "name": "DONHILLAR GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-04"
+            },
+            {
+              "id": "gh-0145",
+              "name": "GROCONSULT MANAGEMENT CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0146",
+              "name": "SGS SOLUSERV LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0147",
+              "name": "SGS INSPECTION AND TESTING SERVICES LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0148",
+              "name": "ABEYSLINK GLOBAL CONSULT LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0149",
+              "name": "AL-RAASH GLOBAL SERVICES AND RECRUITMENT COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-04-29"
+            },
+            {
+              "id": "gh-0150",
+              "name": "AFRICA MANPOWER LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-29"
+            },
+            {
+              "id": "gh-0151",
+              "name": "NOSWALL MANAGEMENT SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0152",
+              "name": "NANNY EXPRESS AGENCY COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0153",
+              "name": "TORS EMPLOYMENT AGENCY COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-30"
+            },
+            {
+              "id": "gh-0154",
+              "name": "TWINGO TRADING COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0155",
+              "name": "KALIBER PARTNERS LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-04-30"
+            },
+            {
+              "id": "gh-0156",
+              "name": "TOP GOAL LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-30"
+            },
+            {
+              "id": "gh-0157",
+              "name": "TOTAL MARINE PROJECTS LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-23"
+            },
+            {
+              "id": "gh-0158",
+              "name": "BASNIRE-LINA COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-28"
+            },
+            {
+              "id": "gh-0159",
+              "name": "B BOUNDARIES COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0160",
+              "name": "HUMANITY 77 LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-23"
+            },
+            {
+              "id": "gh-0161",
+              "name": "Namaa Travel & Tour and Recruitment Agency",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0162",
+              "name": "SAFEPEN GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0163",
+              "name": "Tema Metro Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0164",
+              "name": "SBP AFRICA LMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0165",
+              "name": "SEAWELD ENGINEERING LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0166",
+              "name": "CRUISE STAR SERVICES INTERNATIONAL LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-29"
+            },
+            {
+              "id": "gh-0167",
+              "name": "SOUTH EAST COMPANY AND SUPPORT SERVICE LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0168",
+              "name": "Soronko Reliance Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0169",
+              "name": "MENS-K EXPRESS GLOBAL LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0170",
+              "name": "SHANASS CREATIVE SOLUTION",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-25"
+            },
+            {
+              "id": "gh-0171",
+              "name": "Medusa Royale Security Services Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0172",
+              "name": "JOBBERMAN GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0173",
+              "name": "ESOJOBS LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-30"
+            },
+            {
+              "id": "gh-0174",
+              "name": "Marine Support Services Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-24"
+            },
+            {
+              "id": "gh-0175",
+              "name": "K.SUKS CONSULT LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0176",
+              "name": "DANGASKIYA VENTURES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-28"
+            },
+            {
+              "id": "gh-0177",
+              "name": "THE LORD IS MY SHEPHERD RECRUITMENT AGENCY (TLMS) LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0178",
+              "name": "DOSONEC LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-29"
+            },
+            {
+              "id": "gh-0179",
+              "name": "Jobhouse Services Linited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0180",
+              "name": "FADIWAA COMPANY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0181",
+              "name": "J.E JOB SOLUTION LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0182",
+              "name": "FIRST CLASS RECRUITMENT SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-12"
+            },
+            {
+              "id": "gh-0183",
+              "name": "PHILIPS OUTSOURCING LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-19"
+            },
+            {
+              "id": "gh-0184",
+              "name": "Parmo Human Resource Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0185",
+              "name": "Project Assist Global Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0186",
+              "name": "MCGYAN & SONS LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0187",
+              "name": "WAVE LINE MARITIME LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0188",
+              "name": "GLOBAL LYNQ CONSULT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0189",
+              "name": "Marlin Marine & Crewing Services Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0190",
+              "name": "SarpSolutions2 Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-30"
+            },
+            {
+              "id": "gh-0191",
+              "name": "Job Linq Africa",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0192",
+              "name": "PLATINUM IMPACT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0193",
+              "name": "GLOBAL CALL INITIATIVES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0194",
+              "name": "VELOCITY GLOBAL LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-25"
+            },
+            {
+              "id": "gh-0195",
+              "name": "Amasaman Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0196",
+              "name": "Idream Consortium Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0197",
+              "name": "Intercontinental Link Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "6026-08-16"
+            },
+            {
+              "id": "gh-0198",
+              "name": "Cdc Consult Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0199",
+              "name": "clarion General Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0200",
+              "name": "C7 Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0201",
+              "name": "City Marine And Recruiting Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-24"
+            },
+            {
+              "id": "gh-0202",
+              "name": "Cema Marine Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0203",
+              "name": "Ikegin-Eduaf Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-25"
+            },
+            {
+              "id": "gh-0204",
+              "name": "Chapel Hill Managers & Consulting Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-21"
+            },
+            {
+              "id": "gh-0205",
+              "name": "Oakpalm Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0206",
+              "name": "Operam Mop West Africa Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0207",
+              "name": "Oil city Crew Jobs Centre Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0208",
+              "name": "Unik Resources Private Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0209",
+              "name": "UIS Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0210",
+              "name": "Stedol Enterprise Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0211",
+              "name": "Trade Masters and Recruitment Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0212",
+              "name": "HR-I Solutions Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0213",
+              "name": "Capetano Oil Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0214",
+              "name": "Global Job Centre Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0215",
+              "name": "Elyon Global Logistics Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0216",
+              "name": "Tamale Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0217",
+              "name": "CRYSTAL-LIFE RECRUITMENT AGENCY LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0218",
+              "name": "Sasulos Consult Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0219",
+              "name": "George D Recruitment Agency Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0220",
+              "name": "Steldo Enterprise Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-11"
+            },
+            {
+              "id": "gh-0221",
+              "name": "ROYAL WORKFORCE SERVICES LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-12-08"
+            },
+            {
+              "id": "gh-0222",
+              "name": "ESSWORLDPOINT LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-11"
+            },
+            {
+              "id": "gh-0223",
+              "name": "A. A. Omanbapa Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0224",
+              "name": "Hare Hire LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0225",
+              "name": "Corporate Icon Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0226",
+              "name": "Kltake Consulting Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0227",
+              "name": "Partners Recruitment Consult Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-31"
+            },
+            {
+              "id": "gh-0228",
+              "name": "Gulf marketing and investment Ghana limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-12"
+            },
+            {
+              "id": "gh-0229",
+              "name": "Pagex 2 Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-25"
+            },
+            {
+              "id": "gh-0230",
+              "name": "Multisoft HR Services Limited Company",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            },
+            {
+              "id": "gh-0231",
+              "name": "Dambai Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0232",
+              "name": "Wa Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0233",
+              "name": "Goaso Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0234",
+              "name": "Odumase Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0235",
+              "name": "Alive Consult Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0236",
+              "name": "Duayaw Nkwanta Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0237",
+              "name": "Tamale Metro Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0238",
+              "name": "Unique Job Solution Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0239",
+              "name": "SHRP Ghana LTd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-09-30"
+            },
+            {
+              "id": "gh-0240",
+              "name": "Kran-Saaka Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-30"
+            },
+            {
+              "id": "gh-0241",
+              "name": "Shadong Fishing Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-08-31"
+            },
+            {
+              "id": "gh-0242",
+              "name": "Walewale Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0243",
+              "name": "PK Marine and Crewing Services Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0244",
+              "name": "Bibiani Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0245",
+              "name": "Bakhitas Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-28"
+            },
+            {
+              "id": "gh-0246",
+              "name": "OKP LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0247",
+              "name": "Nicks Labour Supply Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0248",
+              "name": "Maat. Global Consult Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-28"
+            },
+            {
+              "id": "gh-0249",
+              "name": "Memoralss Ghana Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0250",
+              "name": "Great Opus Manpower Services Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0251",
+              "name": "Cadette Exclusive Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-28"
+            },
+            {
+              "id": "gh-0252",
+              "name": "Werecruit Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-28"
+            },
+            {
+              "id": "gh-0253",
+              "name": "Platinum Management Solutions Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-31"
+            },
+            {
+              "id": "gh-0254",
+              "name": "Peace Manpower Recruitment Agency Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0255",
+              "name": "Stemarya Limited Company",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-28"
+            },
+            {
+              "id": "gh-0256",
+              "name": "HD Offshore Limited Company",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-10-30"
+            },
+            {
+              "id": "gh-0257",
+              "name": "Diiet Global company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-28"
+            },
+            {
+              "id": "gh-0258",
+              "name": "Labour Power and Consult Services Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-11-30"
+            },
+            {
+              "id": "gh-0259",
+              "name": "Corporate Leadership Consult Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-10-30"
+            },
+            {
+              "id": "gh-0260",
+              "name": "John Herbert Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2026-11-30"
+            },
+            {
+              "id": "gh-0261",
+              "name": "Sonar Public Employment Centre",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0262",
+              "name": "PRIME SHIPPING AGENCY LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-27"
+            },
+            {
+              "id": "gh-0263",
+              "name": "Prestige Friends Workforce Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-27"
+            },
+            {
+              "id": "gh-0264",
+              "name": "Sokowuli Royal Ghana Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0265",
+              "name": "Labour Hunters Consult Gh Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-02-27"
+            },
+            {
+              "id": "gh-0266",
+              "name": "PINKHART VENTURES LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-29"
+            },
+            {
+              "id": "gh-0267",
+              "name": "Menz Gold",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0268",
+              "name": "BEACON HIREWISE LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0269",
+              "name": "GLOBIS RECRUITMENT AGENCY LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0270",
+              "name": "ALLIANCE DRILLING LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0271",
+              "name": "JOBTEL AFRICA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0272",
+              "name": "SUPERIOR RECRUITMENT SERVICES LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-02-25"
+            },
+            {
+              "id": "gh-0273",
+              "name": "GLO-TRIBE TRAVELS AND RECRUITMENT LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-16"
+            },
+            {
+              "id": "gh-0274",
+              "name": "MICMAT (GH) LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-15"
+            },
+            {
+              "id": "gh-0275",
+              "name": "TECHNOFEX LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0276",
+              "name": "STAR SET RESOURCES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0277",
+              "name": "PAMICOR LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-03-15"
+            },
+            {
+              "id": "gh-0278",
+              "name": "WEST CREW MARINE SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-15"
+            },
+            {
+              "id": "gh-0279",
+              "name": "KHARIS GLOBAL GROUP LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0280",
+              "name": "INNOVATE SOLUTIONS LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-29"
+            },
+            {
+              "id": "gh-0281",
+              "name": "Tafo Municipal Labour Office",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0282",
+              "name": "HENTINA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-29"
+            },
+            {
+              "id": "gh-0283",
+              "name": "EAD CONSULT LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-03-29"
+            },
+            {
+              "id": "gh-0284",
+              "name": "Damongo PEC",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0285",
+              "name": "KIMBERLY RYAN GHANA LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-30"
+            },
+            {
+              "id": "gh-0286",
+              "name": "OSINADO RECRUITMENT AND CONSULTANCY LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-01-31"
+            },
+            {
+              "id": "gh-0287",
+              "name": "Tongo Public Employment Center",
+              "status": "unknown",
+              "license_no": null,
+              "valid_to": null
+            },
+            {
+              "id": "gh-0288",
+              "name": "MANOON COMPANY LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-06-14"
+            },
+            {
+              "id": "gh-0289",
+              "name": "NASEDA CONSULTING AND SERVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-09"
+            },
+            {
+              "id": "gh-0290",
+              "name": "ZIPLINE RECRUITMENT SREVICES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0291",
+              "name": "AFRICA OCEAN BRIDGE MARITIME OPERATION GROUP LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-05-31"
+            },
+            {
+              "id": "gh-0292",
+              "name": "MICHAEL STEVENS CONSULTING GHANA LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-05-31"
+            },
+            {
+              "id": "gh-0293",
+              "name": "APEX NNWUMA CONSULT LTD",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-04-30"
+            },
+            {
+              "id": "gh-0294",
+              "name": "Haywood- Sarbah Solutions Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-07-18"
+            },
+            {
+              "id": "gh-0295",
+              "name": "Enpat Global Solutions Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-30"
+            },
+            {
+              "id": "gh-0296",
+              "name": "Global Workers Resource Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-29"
+            },
+            {
+              "id": "gh-0297",
+              "name": "Asante Fisheries Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-29"
+            },
+            {
+              "id": "gh-0298",
+              "name": "Djay Integrated Services Group Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-29"
+            },
+            {
+              "id": "gh-0299",
+              "name": "Trison Company Limited",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-29"
+            },
+            {
+              "id": "gh-0300",
+              "name": "Kings Labor Solutions Ltd",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2027-06-29"
+            },
+            {
+              "id": "gh-0301",
+              "name": "Kwacha Links Recruitment Agency",
+              "status": "active",
+              "license_no": null,
+              "valid_to": "2028-07-30"
+            }
+          ],
+          "status_changes": [],
+          "contact_changes": []
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "base": "HEAD",
       "countries": [
