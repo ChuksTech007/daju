@@ -1,6 +1,43 @@
 {
   "runs": [
     {
+      "date": "2026-11-02",
+      "base": "HEAD",
+      "countries": [
+        {
+          "country": "UG",
+          "as_of_before": "2026-10-26",
+          "as_of_after": "2026-11-02",
+          "count_before": 184,
+          "count_after": 184,
+          "added_count": 1,
+          "removed_count": 1,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [
+            {
+              "id": "ug-0021",
+              "name": "AIR BLOW INTERNATIONAL LTD",
+              "status": "active",
+              "license_no": "E24110002",
+              "valid_to": "2026-11-03"
+            }
+          ],
+          "removed": [
+            {
+              "id": "ug-0049",
+              "name": "AL-MASHYU COMPANY LIMITED",
+              "status": "active",
+              "license_no": "E24100015",
+              "valid_to": "2026-10-27"
+            }
+          ],
+          "status_changes": [],
+          "contact_changes": []
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "base": "HEAD",
       "countries": [

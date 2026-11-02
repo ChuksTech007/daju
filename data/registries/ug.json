@@ -5,7 +5,7 @@
     "url": "https://eemis.mglsd.go.ug/companies",
     "method": "api"
   },
-  "as_of": "2026-10-26",
+  "as_of": "2026-11-02",
   "count": 184,
   "entries": [
     {
@@ -710,6 +710,41 @@
     },
     {
       "id": "ug-0021",
+      "name": "AIR BLOW INTERNATIONAL LTD",
+      "name_norm": "air blow international ltd",
+      "status": "active",
+      "license_no": "E24110002",
+      "emails": [
+        "airblowinternational@gmail.com"
+      ],
+      "phones": [
+        "+256776658889"
+      ],
+      "website": null,
+      "domains": [
+        "gmail.com"
+      ],
+      "address": "P.O Box 107650, Kampala, Uganda",
+      "valid_from": "2024-11-04",
+      "valid_to": "2026-11-03",
+      "type": "private",
+      "cac_verified": null,
+      "raw": {
+        "eemis_id": "1552",
+        "list_status": "ACTIVE",
+        "list_location": "107650",
+        "list_dates": "04 Nov, 2024 - 03 Nov, 2026",
+        "detail_url": "https://eemis.mglsd.go.ug/companies/AIRBLOWINTERNATIONALLTD_14452224",
+        "logo": "comp_1552_1657720192.jpeg",
+        "detail": {
+          "start_date": "04 November 2024",
+          "expiry_date": "03 November 2026",
+          "status_badge": "ACTIVE"
+        }
+      }
+    },
+    {
+      "id": "ug-0022",
       "name": "HAFIITH ENTERPRISES LTD",
       "name_norm": "hafiith enterprises ltd",
       "status": "active",
@@ -744,7 +779,7 @@
       }
     },
     {
-      "id": "ug-0022",
+      "id": "ug-0023",
       "name": "5 KMG INTERNATIONAL LTD",
       "name_norm": "5 kmg international ltd",
       "status": "active",
@@ -779,7 +814,7 @@
       }
     },
     {
-      "id": "ug-0023",
+      "id": "ug-0024",
       "name": "HEIV INTERNATIONAL LTD",
       "name_norm": "heiv international ltd",
       "status": "active",
@@ -814,7 +849,7 @@
       }
     },
     {
-      "id": "ug-0024",
+      "id": "ug-0025",
       "name": "PEAK LABOUR GIANTS LIMITED",
       "name_norm": "peak labour giants limited",
       "status": "active",
@@ -849,7 +884,7 @@
       }
     },
     {
-      "id": "ug-0025",
+      "id": "ug-0026",
       "name": "OPTIVEN UGANDA LIMITED",
       "name_norm": "optiven uganda limited",
       "status": "active",
@@ -884,7 +919,7 @@
       }
     },
     {
-      "id": "ug-0026",
+      "id": "ug-0027",
       "name": "BABCOOK AND BELLWAY INVESTMENT LTD",
       "name_norm": "babcook and bellway investment ltd",
       "status": "active",
@@ -919,7 +954,7 @@
       }
     },
     {
-      "id": "ug-0027",
+      "id": "ug-0028",
       "name": "CRYSTAL JOBMARTS COMPANY LTD",
       "name_norm": "crystal jobmarts company ltd",
       "status": "active",
@@ -954,7 +989,7 @@
       }
     },
     {
-      "id": "ug-0028",
+      "id": "ug-0029",
       "name": "HIREON AGENCY LIMITED",
       "name_norm": "hireon agency limited",
       "status": "active",
@@ -989,7 +1024,7 @@
       }
     },
     {
-      "id": "ug-0029",
+      "id": "ug-0030",
       "name": "AIRSWIFT RECRUITMENT COMPANY LTD",
       "name_norm": "airswift recruitment company ltd",
       "status": "active",
@@ -1024,7 +1059,7 @@
       }
     },
     {
-      "id": "ug-0030",
+      "id": "ug-0031",
       "name": "GOLD SILVER MANAGEMENT - SMC- (U) LIMITED",
       "name_norm": "gold silver management smc u limited",
       "status": "active",
@@ -1059,7 +1094,7 @@
       }
     },
     {
-      "id": "ug-0031",
+      "id": "ug-0032",
       "name": "ALKHAD IMPACT AGENCY LIMITED",
       "name_norm": "alkhad impact agency limited",
       "status": "active",
@@ -1094,7 +1129,7 @@
       }
     },
     {
-      "id": "ug-0032",
+      "id": "ug-0033",
       "name": "S.A INTEGRATED STAFFING SERVICES LIMITED",
       "name_norm": "s a integrated staffing services limited",
       "status": "active",
@@ -1129,7 +1164,7 @@
       }
     },
     {
-      "id": "ug-0033",
+      "id": "ug-0034",
       "name": "JAKE EMPLOYMENT AGENCY LIMITED",
       "name_norm": "jake employment agency limited",
       "status": "active",
@@ -1164,7 +1199,7 @@
       }
     },
     {
-      "id": "ug-0034",
+      "id": "ug-0035",
       "name": "GAMBY CONSULTS LIMITED",
       "name_norm": "gamby consults limited",
       "status": "active",
@@ -1199,7 +1234,7 @@
       }
     },
     {
-      "id": "ug-0035",
+      "id": "ug-0036",
       "name": "AUNTHETIC RECRUITMENT CENTER LIMITED",
       "name_norm": "aunthetic recruitment center limited",
       "status": "active",
@@ -1234,7 +1269,7 @@
       }
     },
     {
-      "id": "ug-0036",
+      "id": "ug-0037",
       "name": "LEGIT RECRUITMENT CONSULTANTS LTD",
       "name_norm": "legit recruitment consultants ltd",
       "status": "active",
@@ -1269,7 +1304,7 @@
       }
     },
     {
-      "id": "ug-0037",
+      "id": "ug-0038",
       "name": "OZAZ RECRUITMENT SERVICES UGANDA LIMITED",
       "name_norm": "ozaz recruitment services uganda limited",
       "status": "active",
@@ -1304,7 +1339,7 @@
       }
     },
     {
-      "id": "ug-0038",
+      "id": "ug-0039",
       "name": "ENVIRON PLUS UGANDA LIMITED",
       "name_norm": "environ plus uganda limited",
       "status": "active",
@@ -1339,7 +1374,7 @@
       }
     },
     {
-      "id": "ug-0039",
+      "id": "ug-0040",
       "name": "ULTIMATE LINK LTD",
       "name_norm": "ultimate link ltd",
       "status": "active",
@@ -1374,7 +1409,7 @@
       }
     },
     {
-      "id": "ug-0040",
+      "id": "ug-0041",
       "name": "ABSHIR COMPANY LTD",
       "name_norm": "abshir company ltd",
       "status": "active",
@@ -1409,7 +1444,7 @@
       }
     },
     {
-      "id": "ug-0041",
+      "id": "ug-0042",
       "name": "LEGACY RECRUITMENT AGENCY LTD",
       "name_norm": "legacy recruitment agency ltd",
       "status": "active",
@@ -1444,7 +1479,7 @@
       }
     },
     {
-      "id": "ug-0042",
+      "id": "ug-0043",
       "name": "LINFORD CONSULTANTS LTD",
       "name_norm": "linford consultants ltd",
       "status": "active",
@@ -1479,7 +1514,7 @@
       }
     },
     {
-      "id": "ug-0043",
+      "id": "ug-0044",
       "name": "DILIGENT OVERSEAS RECRUITMENT AGENCY LTD",
       "name_norm": "diligent overseas recruitment agency ltd",
       "status": "active",
@@ -1514,7 +1549,7 @@
       }
     },
     {
-      "id": "ug-0044",
+      "id": "ug-0045",
       "name": "ULTIMATE OPTIONS LIMITED",
       "name_norm": "ultimate options limited",
       "status": "active",
@@ -1549,7 +1584,7 @@
       }
     },
     {
-      "id": "ug-0045",
+      "id": "ug-0046",
       "name": "CARMEL EMPLOYMENT SERVICES (U) LIMITED",
       "name_norm": "carmel employment services u limited",
       "status": "active",
@@ -1584,7 +1619,7 @@
       }
     },
     {
-      "id": "ug-0046",
+      "id": "ug-0047",
       "name": "ABUU SHAGGAALA COMPANY LIMITED",
       "name_norm": "abuu shaggaala company limited",
       "status": "active",
@@ -1619,7 +1654,7 @@
       }
     },
     {
-      "id": "ug-0047",
+      "id": "ug-0048",
       "name": "ALMALAK LASSY RECRUITMENT CONSULT LTD",
       "name_norm": "almalak lassy recruitment consult ltd",
       "status": "active",
@@ -1654,7 +1689,7 @@
       }
     },
     {
-      "id": "ug-0048",
+      "id": "ug-0049",
       "name": "M.MED RECRUITMENT AGENCY LIMITED",
       "name_norm": "m med recruitment agency limited",
       "status": "active",
@@ -1684,41 +1719,6 @@
         "detail": {
           "start_date": "26 February 2026",
           "expiry_date": "25 February 2028",
-          "status_badge": "ACTIVE"
-        }
-      }
-    },
-    {
-      "id": "ug-0049",
-      "name": "AL-MASHYU COMPANY LIMITED",
-      "name_norm": "al mashyu company limited",
-      "status": "active",
-      "license_no": "E24100015",
-      "emails": [
-        "almashyucompanylimited2020@gmail.com"
-      ],
-      "phones": [
-        "+256704341610"
-      ],
-      "website": null,
-      "domains": [
-        "gmail.com"
-      ],
-      "address": "P.O. Box 104835, Kampala, Uganda",
-      "valid_from": "2024-10-28",
-      "valid_to": "2026-10-27",
-      "type": "private",
-      "cac_verified": null,
-      "raw": {
-        "eemis_id": "882",
-        "list_status": "ACTIVE",
-        "list_location": "+256774341610",
-        "list_dates": "28 Oct, 2024 - 27 Oct, 2026",
-        "detail_url": "https://eemis.mglsd.go.ug/companies/AL-MASHYUCOMPANYLIMITED_4667544",
-        "logo": "comp_882_1651239196.png",
-        "detail": {
-          "start_date": "28 October 2024",
-          "expiry_date": "27 October 2026",
           "status_badge": "ACTIVE"
         }
       }
