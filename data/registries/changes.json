@@ -1,6 +1,128 @@
 {
   "runs": [
     {
+      "date": "2026-11-09",
+      "base": "HEAD",
+      "countries": [
+        {
+          "country": "NG",
+          "as_of_before": "2026-11-02",
+          "as_of_after": "2026-11-09",
+          "count_before": 1262,
+          "count_after": 1263,
+          "added_count": 1,
+          "removed_count": 0,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [
+            {
+              "id": "ng-1263",
+              "name": "ELOHIM RIMAVIC RESOURCES LIMITED",
+              "status": "active",
+              "license_no": null,
+              "valid_to": null
+            }
+          ],
+          "removed": [],
+          "status_changes": [],
+          "contact_changes": []
+        },
+        {
+          "country": "UG",
+          "as_of_before": "2026-11-02",
+          "as_of_after": "2026-11-09",
+          "count_before": 184,
+          "count_after": 173,
+          "added_count": 0,
+          "removed_count": 11,
+          "status_change_count": 0,
+          "contact_change_count": 0,
+          "added": [],
+          "removed": [
+            {
+              "id": "ug-0017",
+              "name": "RUHAM EAST CONSULTANTS LTD",
+              "status": "active",
+              "license_no": "E25040002",
+              "valid_to": "2027-04-08"
+            },
+            {
+              "id": "ug-0021",
+              "name": "AIR BLOW INTERNATIONAL LTD",
+              "status": "active",
+              "license_no": "E24110002",
+              "valid_to": "2026-11-03"
+            },
+            {
+              "id": "ug-0028",
+              "name": "CRYSTAL JOBMARTS COMPANY LTD",
+              "status": "active",
+              "license_no": "E24110006",
+              "valid_to": "2026-11-03"
+            },
+            {
+              "id": "ug-0033",
+              "name": "S.A INTEGRATED STAFFING SERVICES LIMITED",
+              "status": "active",
+              "license_no": "E24110001",
+              "valid_to": "2026-11-03"
+            },
+            {
+              "id": "ug-0035",
+              "name": "GAMBY CONSULTS LIMITED",
+              "status": "active",
+              "license_no": "E24110003",
+              "valid_to": "2026-11-03"
+            },
+            {
+              "id": "ug-0048",
+              "name": "ALMALAK LASSY RECRUITMENT CONSULT LTD",
+              "status": "active",
+              "license_no": "E25020002",
+              "valid_to": "2027-02-10"
+            },
+            {
+              "id": "ug-0064",
+              "name": "SKILLS ALLIANCE RECRUITMENT AGENCY LTD",
+              "status": "active",
+              "license_no": "E25070018",
+              "valid_to": "2027-07-25"
+            },
+            {
+              "id": "ug-0107",
+              "name": "AXIS WARRIORS LIMITED",
+              "status": "active",
+              "license_no": "E24120017",
+              "valid_to": "2026-12-17"
+            },
+            {
+              "id": "ug-0142",
+              "name": "RS RECRUITMENT SERVICES LIMITED",
+              "status": "active",
+              "license_no": "E25020001",
+              "valid_to": "2027-02-10"
+            },
+            {
+              "id": "ug-0153",
+              "name": "ROKAS RECRUITMENT SERVICES LTD",
+              "status": "active",
+              "license_no": "E25020010",
+              "valid_to": "2027-02-23"
+            },
+            {
+              "id": "ug-0180",
+              "name": "TEMPCRO INTERNATIONAL LIMITED",
+              "status": "active",
+              "license_no": "E25030013",
+              "valid_to": "2027-03-24"
+            }
+          ],
+          "status_changes": [],
+          "contact_changes": []
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "base": "HEAD",
       "countries": [

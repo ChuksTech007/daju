@@ -5,8 +5,8 @@
     "url": "https://nelex.gov.ng/registered-private-employment-agencies",
     "method": "html-pagination"
   },
-  "as_of": "2026-11-02",
-  "count": 1262,
+  "as_of": "2026-11-09",
+  "count": 1263,
   "entries": [
     {
       "id": "ng-0001",
@@ -34099,6 +34099,33 @@
       "cac_verified": true,
       "raw": {
         "sn": "3.",
+        "logo": "https://nelex.gov.ng/images/profile_images/company.png",
+        "cac_text": "Verified",
+        "status_text": "Active",
+        "page": 85
+      }
+    },
+    {
+      "id": "ng-1263",
+      "name": "ELOHIM RIMAVIC RESOURCES LIMITED",
+      "name_norm": "elohim rimavic resources limited",
+      "status": "active",
+      "license_no": null,
+      "emails": [
+        "rimavic.elohim@gmail.com"
+      ],
+      "phones": [],
+      "website": null,
+      "domains": [
+        "gmail.com"
+      ],
+      "address": null,
+      "valid_from": null,
+      "valid_to": null,
+      "type": "private",
+      "cac_verified": true,
+      "raw": {
+        "sn": "4.",
         "logo": "https://nelex.gov.ng/images/profile_images/company.png",
         "cac_text": "Verified",
         "status_text": "Active",
